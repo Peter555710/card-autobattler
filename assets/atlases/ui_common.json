@@ -1,0 +1,135 @@
+{
+  "frames": {
+    "ui_card_frame": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 440,
+        "h": 640
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 440,
+        "h": 640
+      },
+      "sourceSize": {
+        "w": 440,
+        "h": 640
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "ui_result_panel": {
+      "frame": {
+        "x": 444,
+        "y": 2,
+        "w": 747,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 747,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 747,
+        "h": 373
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "ui_result_panel_lose": {
+      "frame": {
+        "x": 1193,
+        "y": 2,
+        "w": 747,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 747,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 747,
+        "h": 373
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "ui_slot": {
+      "frame": {
+        "x": 2,
+        "y": 644,
+        "w": 320,
+        "h": 320
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 320,
+        "h": 320
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 320
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "ui_hand_bar": {
+      "frame": {
+        "x": 324,
+        "y": 644,
+        "w": 1200,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1200,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 1200,
+        "h": 187
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 1
+      }
+    }
+  },
+  "meta": {
+    "app": "card-autobattler/scripts/pack-atlases.mjs",
+    "version": "1.0",
+    "image": "ui_common.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1942,
+      "h": 966
+    },
+    "scale": "1"
+  }
+}
